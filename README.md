@@ -2,7 +2,7 @@
 
 - primeiros passos
 - variaveis
-- operadores
+- operadores string
 - condicionais
 - laços
 - coleções
